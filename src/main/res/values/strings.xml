@@ -5,6 +5,8 @@
   <string name="de_keyboard">German</string>
   <string name="de_keyboard_broad">German broad</string>
   <string name="de_keyboard_extra">German broad+</string>
+  <string name="de_keyboard_numbers">German with numbers</string>
+  <string name="de_keyboard_terminal">German with terminal</string>
   <string name="german_dictionary">German</string>
   <string name="dictionary_name">German</string>
   <string name="keyboard_name">German</string>

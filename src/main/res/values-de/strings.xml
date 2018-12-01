@@ -8,4 +8,6 @@
     <string name="dictionary_name">Deutsch</string>
     <string name="de_keyboard_broad">Deutsch breit</string>
     <string name="de_keyboard_extra">Deutsch breit+</string>
+    <string name="de_keyboard_numbers">Deutsch mit Nummern</string>
+    <string name="de_keyboard_terminal">Deutsch mit Terminal</string>
 </resources>
